@@ -1,0 +1,13 @@
+server:
+  port: 8000
+
+order-service:
+  menu:
+    items:
+      milk: 1
+      sugar: 0.5
+      Soda: 0.5
+      mint: 0.5
+      water: 0.5
+      tea: 3
+      coffee: 4
